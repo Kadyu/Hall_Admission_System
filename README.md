@@ -36,5 +36,11 @@ In order to make the programme reliable, an extensive testing strategy was devis
 In terms of coverage percentage, as shown in the figure above, 97.6% of the programme classes were covered. However, if we include the exception classes and test cases as well (fundamentally, every line of code that we have written), the number goes up to 99.1%.
 The reason for not being able to achieve 100% testing coverage is that to activate some areas of code, especially areas related to exception handling, faults would have to be introduced in some other areas. Submission of faulty code would be unacceptable, so the testing of such areas was not highlighted in these numbers. Rest assured; these areas were tested in the development process of the code. We could have used testing stubs to overcome this issue, but such a course of action would have damaged the integrity of the Bottom-Up approach as one of the reasons behind adopting this approach was to make the testing process simpler by eliminating the usage of testing stubs.
 
+## Short demo
+
+-Checking application status after creating it <br/>
+<br/>
+<img src="https://github.com/Kadyu/Hall_Admission_System/blob/main/readMe-img/readMe-image4.png" width="600">
+
 
 
