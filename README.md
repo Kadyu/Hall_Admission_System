@@ -22,7 +22,7 @@ Users must log in using their username and password through a dedicated login po
 -State Pattern </br>
 -Singleton Pattern </br>
 
-## Testing 
+## JUnit Testing 
 
 <img src="https://github.com/Kadyu/Hall_Admission_System/blob/main/readMe-img/readMe-image3.png" width="700">
 
